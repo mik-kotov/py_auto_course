@@ -1,2 +1,3 @@
 # py_auto_course
-My homework for auto-QA course
+
+My brilliant homework for auto-QA course
